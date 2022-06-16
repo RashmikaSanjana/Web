@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta name="csrf-token" content="hLh5yamECxSkRV82DJ4lcVHr8HlchKzRQBNJdpam">
+<meta property="og:title" content="Ease Manegment" />
+<meta property="og:description" content="Ease Manegment" />
+<meta property="og:image" content="" />
+<meta name="format-detection" content="telephone=no">
+<link rel="apple-touch-icon" sizes="180x180" href="C:\Users\PC\Pictures\Saved Pictures\Untitled.png">
+<link rel="icon" type="image/png" sizes="32x32" href="C:\Users\PC\Pictures\Saved Pictures\Untitled.png">
+<link rel="icon" type="image/png" sizes="16x16" href="C:\Users\PC\Pictures\Saved Pictures\Untitled.pngs">
+<link rel="manifest" href="https://surathaonline.lk//site.webmanifest">
+<link rel="mask-icon" href="https://surathaonline.lk//safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffbb">
+        <title>Fast.lk-Made With Rashmika</title>
+
+        <link rel="stylesheet" href="https://app.notify.lk/lib/tokenize/jquery.tokenize.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css">
+        <link rel="stylesheet" href="https://app.notify.lk/lib/datetimepicker/jquery.datetimepicker.css">
+        <link rel="stylesheet" href="https://app.notify.lk/css/app.css">
+        <link rel="stylesheet" href="https://app.notify.lk/lib/fontawesome/css/font-awesome.min.css">
+
+        
+</head>
+<body class="auth_body">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2 text-center">
+                <img src="C:\Users\PC\Pictures\Saved Pictures\Untitled.png" id="logo" class="logo auth-logo">
+            </div>
+        </div>
+                            </div>
+		
+<div class="courses-filter">
+<div class="clearfix">
+<div class="row">
+<div class="col-lg-12">
+</div>
+</div>
+<div class="row" id="profile-announcements">
+<div class="col-lg-12">
+<div class="alert alert-warning" role="alert">
+<strong><center>Attention Please!..Due to the bad Conditions In the Country</center><br>
+         <center>      Sociel Media Login has been postponed for a while...</center>
+</div>
+</div>
+</div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <div class="panel-heading">
+                </div>
+                <div class="panel-body">
+                    <form class="form-horizontal" role="form" method="POST" action="https://app.notify.lk/register">
+    <input type="hidden" name="_token" value="exYaO0JsQ6dhGadFJoxC0JekI05k1yBmQvXogSV6">
+
+    <div class="form-group">
+	<label for="first_name" class="col-md-4 control-label">First Name:-</label>
+
+	<div class="col-md-6">
+	    <input id="first_name" type="text" class="form-control" name="first_name" value="" placeholder="Eg:Nandasena Gotabaya" required autofocus>
+
+	    	</div>
+    </div>
+
+    <div class="form-group">
+	<label for="first_name" class="col-md-4 control-label">Last Name:-</label>
+
+	<div class="col-md-6">
+	    <input id="last_name" type="text" class="form-control" name="last_name" value="" placeholder="Eg:Rajapakse" required>
+
+	    	</div>
+    </div>
+
+    <div class="form-group">
+	<label for="email" class="col-md-4 control-label">E-Mail Address:-</label>
+
+	<div class="col-md-6">
+	    <input id="email" type="email" class="form-control" name="email" value="" placeholder="Someone@gmail.com" required>
+
+	    	</div>
+    </div>
+
+    <div class="form-group">
+	<label for="phone_num" class="col-md-4 control-label">Phone Number:-</label>
+
+	<div class="col-md-6">
+	    <input id="phone_num" type="number" class="form-control" name="phone_num" value="" placeholder="Eg:0704106981" required>
+	    <small>Please type your 10 digit mobile phone number.</small>
+	    	</div>
+    </div>
+
+    <div class="form-group">
+	<label for="password" class="col-md-4 control-label">Password:-</label>
+
+	<div class="col-md-6">
+	    <input id="password" type="password" class="form-control" name="password" placeholder="Password" required>
+
+	    	</div>
+    </div>
+
+    <div class="form-group">
+	<label for="password-confirm" class="col-md-4 control-label">Confirm Password:-</label>
+
+	<div class="col-md-6">
+	    <input id="password-confirm" type="password" class="form-control" name="password_confirmation" placeholder="Password Confirmation" required>
+	</div>
+    </div>
+
+    <div class="form-group">
+	<label for="tos" class="col-md-4 control-label"></label>
+
+	<div class="col-md-6">
+	    <label><input id="tos" type="checkbox" name="tos" required> I agree to <a target="_blank" href="https://www.notify.lk/terms-of-use">Terms of Use</a></label>
+	</div>
+    </div>
+
+    <div class="form-group">
+	<div class="col-md-6 col-md-offset-4">
+	    <button type="submit" class="btn btn-primary">
+		Register
+	    </button>
+	</div>
+    </div>
+</form>
+<div class="auth-toggle text-center">Have an account?<a href="/login"> Login</a></div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center"><a href="/register" class="white">New to Fast? Click here to register</a></div>
+    </div>
+    <div class="footer-wrapper">
+        <div class="container">
+            <div class="row">                    
+                <div class="col-sm-12">
+                    <div class="copyright-content text-center">
+                        <a target="_blank" href="//www.notify.lk/support/">Support</a> | <a target="_blank" href="//www.notify.lk/terms-of-use">Terms of Use</a><br>s 2022 Fast.lk. Service by <a href="https://www.rashmikasanjana168@gmail.com">Rashmika</a> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/js/bootstrap-select.min.js"></script>
+    <script src="https://app.notify.lk/lib/tokenize/jquery.tokenize.js"></script>
+    <script src="https://app.notify.lk/lib/datetimepicker/jquery.datetimepicker.full.min.js"></script>
+    </body>
+</html>
